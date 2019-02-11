@@ -28,7 +28,7 @@ function validate() {
     }
     else
     {
-        $('#Country').css('border-color', 'lightgrey');
+        $('#Country').css('border-color', 'Green');
     }
     return isValid;
 }
